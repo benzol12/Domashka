@@ -1,0 +1,14 @@
+C:\Users\olbez\Documents\Seminar2DZ\Zadanie29\obj\Debug\net7.0\Zadanie29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olbez\Documents\Seminar2DZ\Zadanie29\obj\Debug\net7.0\Zadanie29.AssemblyInfoInputs.cache
+C:\Users\olbez\Documents\Seminar2DZ\Zadanie29\obj\Debug\net7.0\Zadanie29.AssemblyInfo.cs
+C:\Users\olbez\Documents\Seminar2DZ\Zadanie29\obj\Debug\net7.0\Zadanie29.csproj.CoreCompileInputs.cache
+C:\Users\olbez\Documents\Seminar2DZ\Zadanie29\bin\Debug\net7.0\Zadanie29.exe
+C:\Users\olbez\Documents\Seminar2DZ\Zadanie29\bin\Debug\net7.0\Zadanie29.deps.json
+C:\Users\olbez\Documents\Seminar2DZ\Zadanie29\bin\Debug\net7.0\Zadanie29.runtimeconfig.json
+C:\Users\olbez\Documents\Seminar2DZ\Zadanie29\bin\Debug\net7.0\Zadanie29.dll
+C:\Users\olbez\Documents\Seminar2DZ\Zadanie29\bin\Debug\net7.0\Zadanie29.pdb
+C:\Users\olbez\Documents\Seminar2DZ\Zadanie29\obj\Debug\net7.0\Zadanie29.dll
+C:\Users\olbez\Documents\Seminar2DZ\Zadanie29\obj\Debug\net7.0\refint\Zadanie29.dll
+C:\Users\olbez\Documents\Seminar2DZ\Zadanie29\obj\Debug\net7.0\Zadanie29.pdb
+C:\Users\olbez\Documents\Seminar2DZ\Zadanie29\obj\Debug\net7.0\Zadanie29.genruntimeconfig.cache
+C:\Users\olbez\Documents\Seminar2DZ\Zadanie29\obj\Debug\net7.0\ref\Zadanie29.dll
